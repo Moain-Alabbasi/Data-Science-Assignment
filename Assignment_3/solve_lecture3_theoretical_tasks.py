@@ -4,7 +4,7 @@ import seaborn as sns
 
 # تحميل مجموعة بيانات تيتانيك
 try:
-    titanic_df = pd.read_csv("train.csv")
+    titanic_df = pd.read_csv("titanic.csv")
 except FileNotFoundError:
     print("ملف train.csv غير موجود. يرجى التأكد من وجوده في نفس المسار.")
     exit()

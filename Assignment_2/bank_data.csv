@@ -1,0 +1,17 @@
+
+CustomerID,Age,Nationality,LoanAmount,LoanGuarantee,AccountType,TransactionAmount,TransactionType,Date
+1,30,Egyptian,50000,Yes,Savings,10000,Deposit,01-01-2023
+2,45,Saudi,120000,No,Current,5000,Withdrawal,01-01-2023
+3,22,Egyptian,30000,Yes,Savings,2000,Transfer,02-01-2023
+4,60,Kuwaiti,80000,No,Current,15000,Deposit,02-01-2023
+5,35,Egyptian,70000,Yes,Savings,3000,Withdrawal,03-01-2023
+6,28,Saudi,NaN,No,Current,NaN,Deposit,03-01-2023
+7,50,Egyptian,90000,Yes,Savings,7000,Transfer,04-01-2023
+8,150,Kuwaiti,100000,No,Current,20000,Deposit,04-01-2023
+9,40,Egyptian,60000,Yes,Savings,4000,Withdrawal,05-01-2023
+10,30,Egyptian,50000,Yes,Savings,10000,Deposit,01-01-2023
+11,25,Syrian,40000,No,Current,2500,Transfer,05-01-2023
+12,55,Jordanian,NaN,Yes,Savings,8000,Deposit,06-01-2023
+13,33,Egyptian,65000,No,Current,3500,Withdrawal,06-01-2023
+14,48,Saudi,110000,Yes,Savings,6000,Transfer,07-01-2023
+15,29,Egyptian,55000,No,Current,NaN,Deposit,07-01-2023
