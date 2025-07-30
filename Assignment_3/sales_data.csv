@@ -1,0 +1,1001 @@
+Date,Product,Sales,Region,Customer_Age
+2024-01-01,USB Drive,39.56,South,40
+2024-01-01,Headphones,72.11,South,46
+2024-01-01,Laptop,1423.05,Central,50
+2024-01-01,Mouse,22.02,South,46
+2024-01-01,Keyboard,87.74,East,42
+2024-01-02,External HDD,21.57,Central,38
+2024-01-02,Speaker,45.02,West,42
+2024-01-02,Webcam,33.09,South,43
+2024-01-02,Mouse,39.55,Central,63
+2024-01-02,USB Drive,53.4,West,62
+2024-01-03,Printer,41.09,Central,27
+2024-01-03,External HDD,36.25,North,49
+2024-01-03,Headphones,74.89,Central,66
+2024-01-03,Webcam,77.0,Central,30
+2024-01-03,Webcam,58.05,East,51
+2024-01-04,External HDD,58.03,East,27
+2024-01-04,Speaker,39.23,North,23
+2024-01-04,Mouse,84.18,North,36
+2024-01-04,Laptop,1392.0,West,19
+2024-01-04,Webcam,77.36,East,68
+2024-01-05,Mouse,84.6,East,34
+2024-01-05,Keyboard,51.16,Central,67
+2024-01-05,Laptop,1545.27,Central,59
+2024-01-05,Monitor,344.15,East,68
+2024-01-05,Monitor,325.72,South,26
+2024-01-06,Webcam,54.0,Central,61
+2024-01-06,Monitor,229.93,Central,63
+2024-01-06,Printer,67.83,South,61
+2024-01-06,Headphones,20.72,South,28
+2024-01-06,Headphones,42.29,South,65
+2024-01-07,Laptop,1077.22,North,32
+2024-01-07,Speaker,85.33,North,25
+2024-01-07,Laptop,1078.10,East,20
+2024-01-07,Printer,57.34,East,33
+2024-01-07,Printer,51.66,South,46
+2024-01-08,Monitor,374.76,East,44
+2024-01-08,Printer,86.69,West,56
+2024-01-08,USB Drive,43.66,East,42
+2024-01-08,Monitor,364.07,East,18
+2024-01-08,Mouse,54.09,North,69
+2024-01-09,Webcam,46.71,South,21
+2024-01-09,Monitor,359.12,Central,56
+2024-01-09,External HDD,89.22,East,60
+2024-01-09,Headphones,44.11,East,30
+2024-01-09,Mouse,48.97,North,64
+2024-01-10,Laptop,1597.86,North,62
+2024-01-10,Laptop,1314.14,North,24
+2024-01-10,External HDD,56.74,South,30
+2024-01-10,Mouse,69.03,South,55
+2024-01-10,USB Drive,47.09,South,33
+2024-01-11,USB Drive,76.66,South,30
+2024-01-11,External HDD,68.8,Central,19
+2024-01-11,Speaker,94.76,North,23
+2024-01-11,Webcam,99.08,North,57
+2024-01-11,Webcam,78.25,West,32
+2024-01-12,Mouse,99.09,North,36
+2024-01-12,USB Drive,50.1,North,66
+2024-01-12,Printer,30.28,North,45
+2024-01-12,Laptop,1942.42,Central,43
+2024-01-12,Monitor,401.99,Central,50
+2024-01-13,Webcam,75.37,South,62
+2024-01-13,Mouse,98.83,East,50
+2024-01-13,Mouse,,South,69
+2024-01-13,Headphones,44.76,West,45
+2024-01-13,Monitor,401.31,North,63
+2024-01-14,External HDD,80.72,East,18
+2024-01-14,Speaker,57.84,West,62
+2024-01-14,Monitor,360.98,West,27
+2024-01-14,Laptop,1934.79,North,34
+2024-01-14,Headphones,88.8,Central,59
+2024-01-15,Printer,64.16,East,31
+2024-01-15,Laptop,1168.79,North,67
+2024-01-15,Speaker,70.2,West,61
+2024-01-15,Speaker,,North,48
+2024-01-15,Monitor,422.27,West,60
+2024-01-16,Headphones,50.29,North,48
+2024-01-16,Speaker,54.56,Central,39
+2024-01-16,Printer,66.75,South,46
+2024-01-16,Headphones,75.11,Central,64
+2024-01-16,Laptop,1735.57,South,41
+2024-01-17,Speaker,96.23,South,30
+2024-01-17,Keyboard,86.05,West,63
+2024-01-17,Laptop,1566.17,East,46
+2024-01-17,Laptop,1447.66,East,42
+2024-01-17,Mouse,34.34,South,22
+2024-01-18,Webcam,23.16,North,48
+2024-01-18,External HDD,,North,52
+2024-01-18,Webcam,40.81,North,22
+2024-01-18,Laptop,1844.22,South,69
+2024-01-18,Headphones,64.41,Central,46
+2024-01-19,Webcam,49.72,East,58
+2024-01-19,Keyboard,71.03,South,66
+2024-01-19,Webcam,85.83,South,41
+2024-01-19,Printer,83.58,Central,64
+2024-01-19,Mouse,59.51,South,36
+2024-01-20,Monitor,372.01,West,47
+2024-01-20,External HDD,31.8,North,26
+2024-01-20,Keyboard,84.74,West,67
+2024-01-20,Monitor,202.9,North,54
+2024-01-20,Laptop,926.59,South,51
+2024-01-21,Webcam,52.38,East,65
+2024-01-21,Keyboard,25.91,East,32
+2024-01-21,Keyboard,85.09,West,41
+2024-01-21,Keyboard,83.75,North,38
+2024-01-21,Speaker,36.55,South,65
+2024-01-22,Monitor,387.98,North,53
+2024-01-22,External HDD,33.09,South,21
+2024-01-22,USB Drive,34.96,North,50
+2024-01-22,Mouse,45.1,West,63
+2024-01-22,Monitor,,South,27
+2024-01-23,Keyboard,,South,18
+2024-01-23,USB Drive,71.28,Central,64
+2024-01-23,Mouse,82.67,West,20
+2024-01-23,Laptop,1497.74,North,36
+2024-01-23,Speaker,75.27,North,53
+2024-01-24,Speaker,,Central,64
+2024-01-24,Keyboard,65.41,South,22
+2024-01-24,Laptop,1603.34,East,53
+2024-01-24,Webcam,46.4,East,60
+2024-01-24,Printer,73.89,North,55
+2024-01-25,Headphones,55.86,Central,18
+2024-01-25,Laptop,1235.56,Central,31
+2024-01-25,USB Drive,85.53,South,49
+2024-01-25,External HDD,27.24,South,51
+2024-01-25,Headphones,95.18,East,39
+2024-01-26,Laptop,1487.65,East,56
+2024-01-26,Headphones,26.73,South,52
+2024-01-26,Printer,,West,49
+2024-01-26,USB Drive,68.47,South,29
+2024-01-26,Webcam,97.56,North,56
+2024-01-27,Mouse,22.87,East,66
+2024-01-27,Mouse,,Central,21
+2024-01-27,Laptop,1445.53,North,30
+2024-01-27,External HDD,25.02,South,66
+2024-01-27,Mouse,26.63,South,46
+2024-01-28,Laptop,1763.06,East,51
+2024-01-28,Speaker,30.21,North,25
+2024-01-28,External HDD,90.69,North,31
+2024-01-28,Monitor,248.12,Central,29
+2024-01-28,Keyboard,52.89,West,57
+2024-01-29,Printer,77.09,South,40
+2024-01-29,Printer,44.59,South,50
+2024-01-29,Printer,79.06,West,37
+2024-01-29,Monitor,202.28,West,20
+2024-01-29,Laptop,961.23,Central,51
+2024-01-30,Headphones,63.55,West,28
+2024-01-30,Mouse,86.62,East,58
+2024-01-30,Mouse,77.54,South,26
+2024-01-30,Keyboard,51.57,Central,34
+2024-01-30,Webcam,39.71,North,20
+2024-01-31,Monitor,356.03,Central,27
+2024-01-31,Headphones,28.72,North,35
+2024-01-31,Mouse,43.75,East,53
+2024-01-31,Webcam,62.07,South,47
+2024-01-31,Printer,40.0,South,53
+2024-02-01,Keyboard,54.24,West,46
+2024-02-01,Laptop,1056.71,West,30
+2024-02-01,Webcam,41.54,Central,23
+2024-02-01,Keyboard,30.28,North,45
+2024-02-01,Keyboard,90.13,South,22
+2024-02-02,Printer,93.76,Central,27
+2024-02-02,Webcam,61.6,East,30
+2024-02-02,Laptop,1009.36,Central,66
+2024-02-02,Headphones,97.95,South,30
+2024-02-02,Laptop,1504.17,South,23
+2024-02-03,Mouse,51.94,North,18
+2024-02-03,Laptop,1782.58,Central,52
+2024-02-03,Keyboard,37.58,East,56
+2024-02-03,Monitor,177.29,West,53
+2024-02-03,Mouse,53.43,Central,25
+2024-02-04,External HDD,49.43,West,53
+2024-02-04,,96.18,East,58
+2024-02-04,Laptop,,East,26
+2024-02-04,Printer,51.58,South,30
+2024-02-04,Mouse,92.2,West,59
+2024-02-05,Printer,35.44,South,50
+2024-02-05,Webcam,71.1,North,23
+2024-02-05,Webcam,71.67,South,54
+2024-02-05,Mouse,91.14,East,25
+2024-02-05,USB Drive,51.61,North,32
+2024-02-06,Headphones,83.17,South,59
+2024-02-06,Webcam,85.69,East,40
+2024-02-06,USB Drive,96.29,South,43
+2024-02-06,Keyboard,75.42,Central,35
+2024-02-06,Headphones,85.4,West,34
+2024-02-07,Laptop,1960.72,South,52
+2024-02-07,Webcam,64.06,North,40
+2024-02-07,Mouse,95.47,South,69
+2024-02-07,Mouse,25.13,West,43
+2024-02-07,Laptop,1220.27,West,43
+2024-02-08,Laptop,1306.35,East,39
+2024-02-08,Mouse,,North,21
+2024-02-08,Printer,34.85,Central,46
+2024-02-08,USB Drive,40.62,Central,68
+2024-02-08,USB Drive,21.05,North,53
+2024-02-09,Webcam,62.06,North,19
+2024-02-09,Webcam,57.11,South,41
+2024-02-09,Headphones,92.53,Central,57
+2024-02-09,Mouse,29.02,East,51
+2024-02-09,Laptop,929.75,East,21
+2024-02-10,Printer,59.23,West,50
+2024-02-10,Laptop,1734.23,East,27
+2024-02-10,Webcam,21.57,Central,59
+2024-02-10,Keyboard,86.66,South,22
+2024-02-10,Printer,47.53,North,21
+2024-02-11,Webcam,37.63,South,66
+2024-02-11,USB Drive,28.18,East,61
+2024-02-11,Keyboard,23.39,North,58
+2024-02-11,External HDD,31.97,Central,57
+2024-02-11,Monitor,276.42,South,43
+2024-02-12,Mouse,77.67,Central,28
+2024-02-12,Headphones,71.34,Central,59
+2024-02-12,USB Drive,67.72,Central,33
+2024-02-12,Monitor,381.87,South,32
+2024-02-12,,76.24,West,59
+2024-02-13,Keyboard,65.94,East,34
+2024-02-13,Webcam,96.05,West,26
+2024-02-13,External HDD,76.21,South,50
+2024-02-13,Monitor,354.18,South,64
+2024-02-13,Printer,64.87,East,21
+2024-02-14,Webcam,26.49,Central,43
+2024-02-14,USB Drive,61.01,East,26
+2024-02-14,Printer,74.35,West,31
+2024-02-14,Speaker,65.28,South,41
+2024-02-14,Speaker,54.25,Central,51
+2024-02-15,Headphones,99.55,North,60
+2024-02-15,Keyboard,20.73,East,66
+2024-02-15,Monitor,209.76,South,18
+2024-02-15,External HDD,25.64,Central,58
+2024-02-15,Laptop,1498.52,South,62
+2024-02-16,USB Drive,58.6,East,48
+2024-02-16,Keyboard,33.92,East,56
+2024-02-16,Printer,24.7,North,50
+2024-02-16,Mouse,68.98,Central,59
+2024-02-16,Keyboard,42.79,Central,55
+2024-02-17,Speaker,66.65,Central,55
+2024-02-17,Webcam,67.47,Central,55
+2024-02-17,Speaker,80.88,South,35
+2024-02-17,External HDD,86.13,Central,64
+2024-02-17,External HDD,35.29,Central,66
+2024-02-18,USB Drive,54.54,South,33
+2024-02-18,Webcam,76.39,North,57
+2024-02-18,Headphones,42.2,South,44
+2024-02-18,Keyboard,,South,18
+2024-02-18,USB Drive,72.45,West,42
+2024-02-19,External HDD,35.18,West,25
+2024-02-19,Speaker,72.82,South,32
+2024-02-19,USB Drive,87.83,North,31
+2024-02-19,Headphones,26.08,South,29
+2024-02-19,Keyboard,66.3,North,43
+2024-02-20,Laptop,950.12,South,66
+2024-02-20,Webcam,52.38,South,45
+2024-02-20,External HDD,87.61,East,67
+2024-02-20,USB Drive,80.89,Central,55
+2024-02-20,Monitor,196.0,West,26
+2024-02-21,Printer,59.1,Central,26
+2024-02-21,Headphones,,West,59
+2024-02-21,Laptop,1908.36,North,54
+2024-02-21,Webcam,69.15,West,40
+2024-02-21,Webcam,80.07,South,46
+2024-02-22,Headphones,37.22,North,25
+2024-02-22,USB Drive,88.55,East,58
+2024-02-22,Printer,49.58,West,53
+2024-02-22,Keyboard,34.01,Central,45
+2024-02-22,Mouse,30.02,East,23
+2024-02-23,Laptop,1738.71,West,35
+2024-02-23,,64.07,South,47
+2024-02-23,Monitor,440.21,South,63
+2024-02-23,Headphones,55.06,North,65
+2024-02-23,Headphones,85.09,East,46
+2024-02-24,Headphones,69.07,South,24
+2024-02-24,Headphones,79.61,West,19
+2024-02-24,USB Drive,61.72,Central,63
+2024-02-24,External HDD,87.02,Central,43
+2024-02-24,Webcam,29.18,South,56
+2024-02-25,Webcam,77.8,West,42
+2024-02-25,Speaker,54.08,West,48
+2024-02-25,Speaker,21.93,East,22
+2024-02-25,Mouse,69.23,East,56
+2024-02-25,Webcam,56.16,Central,42
+2024-02-26,Printer,25.14,North,33
+2024-02-26,Keyboard,55.39,West,39
+2024-02-26,Headphones,92.33,Central,26
+2024-02-26,Printer,79.73,Central,34
+2024-02-26,USB Drive,97.38,East,34
+2024-02-27,Printer,60.3,West,39
+2024-02-27,USB Drive,30.78,Central,68
+2024-02-27,Mouse,62.83,West,24
+2024-02-27,Printer,79.47,West,44
+2024-02-27,Laptop,1157.11,North,23
+2024-02-28,Speaker,24.53,South,65
+2024-02-28,Mouse,,Central,30
+2024-02-28,USB Drive,55.01,North,23
+2024-02-28,External HDD,70.39,East,45
+2024-02-28,Monitor,434.72,North,63
+2024-02-29,Monitor,277.29,East,52
+2024-02-29,Webcam,,East,45
+2024-02-29,Keyboard,54.1,East,46
+2024-02-29,Laptop,1221.55,North,28
+2024-02-29,External HDD,41.66,Central,30
+2024-03-01,Laptop,,Central,25
+2024-03-01,USB Drive,,West,65
+2024-03-01,Speaker,60.04,West,66
+2024-03-01,Keyboard,86.07,North,33
+2024-03-01,USB Drive,40.45,West,30
+2024-03-02,Keyboard,84.94,Central,30
+2024-03-02,External HDD,69.82,West,44
+2024-03-02,,,South,19
+2024-03-02,Headphones,53.11,North,59
+2024-03-02,External HDD,85.77,West,27
+2024-03-03,Speaker,73.78,North,52
+2024-03-03,Headphones,97.26,East,53
+2024-03-03,Keyboard,20.78,Central,59
+2024-03-03,Printer,40.7,South,58
+2024-03-03,Speaker,23.8,North,22
+2024-03-04,USB Drive,33.34,East,30
+2024-03-04,Printer,43.01,Central,52
+2024-03-04,Keyboard,55.07,South,19
+2024-03-04,Speaker,93.53,West,48
+2024-03-04,Speaker,39.66,South,32
+2024-03-05,USB Drive,33.79,Central,19
+2024-03-05,Headphones,58.85,West,59
+2024-03-05,Mouse,49.47,East,18
+2024-03-05,Webcam,65.98,East,40
+2024-03-05,USB Drive,59.43,North,32
+2024-03-06,Monitor,163.83,North,28
+2024-03-06,,54.36,East,39
+2024-03-06,Headphones,60.18,East,28
+2024-03-06,Mouse,75.54,West,63
+2024-03-06,Mouse,41.56,North,46
+2024-03-07,Monitor,438.5,West,54
+2024-03-07,Speaker,79.13,North,63
+2024-03-07,Webcam,93.78,South,36
+2024-03-07,Webcam,56.28,East,58
+2024-03-07,Monitor,191.39,South,53
+2024-03-08,Monitor,468.89,South,40
+2024-03-08,Mouse,86.33,East,66
+2024-03-08,Keyboard,37.77,North,46
+2024-03-08,Laptop,1858.13,Central,35
+2024-03-08,Speaker,23.28,North,54
+2024-03-09,Keyboard,94.42,Central,23
+2024-03-09,Keyboard,67.82,East,21
+2024-03-09,Webcam,,South,19
+2024-03-09,Printer,76.99,East,22
+2024-03-09,External HDD,27.28,South,23
+2024-03-10,Speaker,44.31,West,67
+2024-03-10,Headphones,52.89,West,43
+2024-03-10,Laptop,1932.63,West,21
+2024-03-10,USB Drive,42.25,West,61
+2024-03-10,Printer,32.61,South,36
+2024-03-11,Webcam,29.81,Central,50
+2024-03-11,Speaker,39.13,South,68
+2024-03-11,Printer,29.14,East,22
+2024-03-11,Mouse,97.61,South,44
+2024-03-11,Mouse,96.41,East,65
+2024-03-12,Webcam,71.9,Central,67
+2024-03-12,Mouse,45.54,South,33
+2024-03-12,Keyboard,90.75,West,69
+2024-03-12,Headphones,62.62,East,52
+2024-03-12,Headphones,75.6,East,45
+2024-03-13,Laptop,1086.38,South,64
+2024-03-13,Speaker,86.82,South,47
+2024-03-13,Speaker,64.18,Central,59
+2024-03-13,Printer,27.94,Central,55
+2024-03-13,Keyboard,49.97,North,50
+2024-03-14,Laptop,1283.6,North,22
+2024-03-14,Printer,92.24,Central,44
+2024-03-14,USB Drive,95.33,West,58
+2024-03-14,Webcam,35.0,East,50
+2024-03-14,External HDD,62.86,East,55
+2024-03-15,Headphones,87.77,South,64
+2024-03-15,Monitor,171.09,North,52
+2024-03-15,External HDD,53.34,East,47
+2024-03-15,Webcam,65.03,North,54
+2024-03-15,Keyboard,81.84,North,42
+2024-03-16,Headphones,56.67,West,68
+2024-03-16,Monitor,253.58,West,55
+2024-03-16,Laptop,832.14,South,67
+2024-03-16,Monitor,287.01,North,35
+2024-03-16,Printer,57.1,South,21
+2024-03-17,Webcam,36.31,North,64
+2024-03-17,USB Drive,54.23,South,23
+2024-03-17,Mouse,24.32,Central,62
+2024-03-17,Webcam,35.2,South,53
+2024-03-17,Headphones,39.28,West,39
+2024-03-18,Speaker,89.15,Central,62
+2024-03-18,Speaker,49.22,South,55
+2024-03-18,Speaker,,East,64
+2024-03-18,Webcam,79.25,Central,67
+2024-03-18,Monitor,494.57,West,56
+2024-03-19,Headphones,36.72,East,37
+2024-03-19,Monitor,448.14,North,50
+2024-03-19,External HDD,45.21,Central,46
+2024-03-19,Monitor,379.22,South,38
+2024-03-19,Webcam,69.43,South,60
+2024-03-20,Speaker,88.48,East,65
+2024-03-20,USB Drive,76.86,North,45
+2024-03-20,Headphones,68.78,East,59
+2024-03-20,Keyboard,64.61,East,68
+2024-03-20,Keyboard,72.93,Central,66
+2024-03-21,Keyboard,46.83,East,31
+2024-03-21,Webcam,26.49,North,57
+2024-03-21,External HDD,22.76,East,62
+2024-03-21,Printer,94.73,West,19
+2024-03-21,Keyboard,39.33,Central,67
+2024-03-22,Monitor,466.89,West,45
+2024-03-22,External HDD,66.91,West,50
+2024-03-22,Monitor,439.38,Central,21
+2024-03-22,Webcam,34.19,North,67
+2024-03-22,Speaker,88.21,North,50
+2024-03-23,Webcam,89.01,West,48
+2024-03-23,Headphones,35.02,North,56
+2024-03-23,External HDD,68.66,South,66
+2024-03-23,Headphones,91.08,East,37
+2024-03-23,Headphones,28.9,South,65
+2024-03-24,Headphones,85.7,East,37
+2024-03-24,Monitor,179.85,South,49
+2024-03-24,Mouse,29.34,West,21
+2024-03-24,External HDD,72.84,Central,53
+2024-03-24,Laptop,1203.67,East,41
+2024-03-25,Headphones,92.5,East,58
+2024-03-25,USB Drive,74.61,North,49
+2024-03-25,Monitor,308.78,Central,63
+2024-03-25,Speaker,51.71,East,44
+2024-03-25,External HDD,97.06,South,60
+2024-03-26,Monitor,357.96,East,38
+2024-03-26,Keyboard,98.57,East,37
+2024-03-26,USB Drive,55.58,West,53
+2024-03-26,Mouse,67.29,North,22
+2024-03-26,Keyboard,61.61,Central,38
+2024-03-27,Monitor,425.72,East,38
+2024-03-27,External HDD,47.68,Central,50
+2024-03-27,Laptop,1928.36,North,63
+2024-03-27,Webcam,69.47,East,68
+2024-03-27,Headphones,39.43,North,55
+2024-03-28,Printer,61.63,Central,18
+2024-03-28,USB Drive,58.56,East,67
+2024-03-28,External HDD,64.48,West,52
+2024-03-28,Speaker,88.46,North,33
+2024-03-28,Webcam,47.22,Central,27
+2024-03-29,Keyboard,95.55,East,62
+2024-03-29,USB Drive,97.27,South,48
+2024-03-29,External HDD,81.82,South,48
+2024-03-29,USB Drive,71.19,Central,33
+2024-03-29,Monitor,,West,43
+2024-03-30,Keyboard,,South,28
+2024-03-30,Speaker,21.48,West,63
+2024-03-30,Headphones,81.97,East,57
+2024-03-30,Mouse,82.87,East,61
+2024-03-30,Keyboard,67.91,North,46
+2024-03-31,,86.57,Central,69
+2024-03-31,Monitor,406.51,Central,66
+2024-03-31,Keyboard,32.06,East,36
+2024-03-31,External HDD,41.69,South,55
+2024-03-31,External HDD,45.71,East,23
+2024-04-01,Webcam,32.08,North,37
+2024-04-01,Speaker,61.84,North,68
+2024-04-01,Mouse,78.4,North,49
+2024-04-01,Keyboard,49.6,North,20
+2024-04-01,Webcam,95.83,North,57
+2024-04-02,External HDD,47.07,Central,29
+2024-04-02,Printer,83.36,South,24
+2024-04-02,Headphones,60.37,East,33
+2024-04-02,Printer,46.18,East,48
+2024-04-02,Keyboard,84.44,West,38
+2024-04-03,External HDD,92.74,North,25
+2024-04-03,Webcam,59.4,North,22
+2024-04-03,Printer,69.27,East,34
+2024-04-03,Mouse,84.31,West,37
+2024-04-03,Webcam,34.1,West,44
+2024-04-04,External HDD,44.84,Central,31
+2024-04-04,Mouse,71.33,North,29
+2024-04-04,Mouse,60.23,West,24
+2024-04-04,External HDD,30.73,East,39
+2024-04-04,Printer,58.73,Central,51
+2024-04-05,Webcam,31.94,Central,27
+2024-04-05,Keyboard,73.47,East,34
+2024-04-05,External HDD,85.25,South,40
+2024-04-05,Speaker,32.95,West,20
+2024-04-05,Headphones,97.65,West,52
+2024-04-06,Printer,45.75,North,47
+2024-04-06,Mouse,81.24,North,49
+2024-04-06,Laptop,1756.69,West,32
+2024-04-06,Headphones,64.57,Central,42
+2024-04-06,External HDD,99.1,South,43
+2024-04-07,USB Drive,59.36,North,64
+2024-04-07,Speaker,87.05,South,55
+2024-04-07,External HDD,57.27,West,37
+2024-04-07,Speaker,91.2,East,41
+2024-04-07,Headphones,48.09,Central,60
+2024-04-08,Keyboard,76.54,Central,45
+2024-04-08,Webcam,79.93,East,37
+2024-04-08,,95.62,West,36
+2024-04-08,Mouse,86.16,South,34
+2024-04-08,Headphones,71.64,South,48
+2024-04-09,Headphones,35.96,South,23
+2024-04-09,Mouse,38.08,Central,48
+2024-04-09,Monitor,315.67,Central,36
+2024-04-09,Keyboard,31.13,Central,66
+2024-04-09,Monitor,328.09,West,52
+2024-04-10,Printer,32.66,North,56
+2024-04-10,Mouse,78.06,Central,60
+2024-04-10,USB Drive,71.82,West,57
+2024-04-10,Headphones,,South,19
+2024-04-10,Keyboard,79.02,South,66
+2024-04-11,Webcam,70.4,East,45
+2024-04-11,Laptop,1516.95,South,44
+2024-04-11,USB Drive,92.06,West,21
+2024-04-11,Mouse,,East,32
+2024-04-11,Headphones,84.47,West,26
+2024-04-12,Webcam,64.04,North,48
+2024-04-12,Printer,60.42,West,48
+2024-04-12,,33.99,South,64
+2024-04-12,USB Drive,63.07,North,32
+2024-04-12,Printer,31.28,West,36
+2024-04-13,,62.8,South,61
+2024-04-13,Webcam,35.19,South,55
+2024-04-13,Webcam,97.91,East,68
+2024-04-13,Mouse,79.53,Central,56
+2024-04-13,Webcam,89.12,South,30
+2024-04-14,Mouse,93.73,Central,29
+2024-04-14,External HDD,,West,40
+2024-04-14,Webcam,61.74,West,68
+2024-04-14,Printer,52.29,West,38
+2024-04-14,Keyboard,60.62,West,44
+2024-04-15,Laptop,1789.17,East,26
+2024-04-15,Webcam,,South,41
+2024-04-15,Keyboard,91.14,East,34
+2024-04-15,Keyboard,50.91,Central,39
+2024-04-15,Monitor,488.84,North,52
+2024-04-16,Printer,74.35,North,44
+2024-04-16,Webcam,94.72,East,54
+2024-04-16,USB Drive,27.39,East,64
+2024-04-16,Headphones,28.16,South,23
+2024-04-16,,50.13,East,66
+2024-04-17,Monitor,349.26,West,46
+2024-04-17,Speaker,,Central,38
+2024-04-17,Speaker,37.51,Central,35
+2024-04-17,Keyboard,94.45,East,48
+2024-04-17,Mouse,64.44,Central,40
+2024-04-18,Headphones,88.09,Central,20
+2024-04-18,Laptop,1044.52,West,38
+2024-04-18,Webcam,21.98,East,20
+2024-04-18,External HDD,71.5,West,69
+2024-04-18,External HDD,96.79,North,61
+2024-04-19,Monitor,,South,31
+2024-04-19,Printer,29.94,South,64
+2024-04-19,External HDD,50.26,East,69
+2024-04-19,External HDD,52.79,Central,37
+2024-04-19,Monitor,162.22,East,64
+2024-04-20,Mouse,97.16,East,48
+2024-04-20,Mouse,55.38,South,67
+2024-04-20,Mouse,80.42,East,62
+2024-04-20,USB Drive,68.93,North,54
+2024-04-20,Keyboard,87.74,East,46
+2024-04-21,External HDD,74.5,West,38
+2024-04-21,USB Drive,70.01,West,59
+2024-04-21,Speaker,,North,61
+2024-04-21,Speaker,62.7,North,24
+2024-04-21,Mouse,93.44,Central,29
+2024-04-22,Printer,75.69,South,33
+2024-04-22,Mouse,41.98,North,18
+2024-04-22,Mouse,66.08,South,36
+2024-04-22,Speaker,82.05,East,50
+2024-04-22,USB Drive,85.04,East,33
+2024-04-23,Mouse,62.07,North,39
+2024-04-23,Printer,76.84,South,44
+2024-04-23,Keyboard,33.71,East,50
+2024-04-23,External HDD,56.85,South,40
+2024-04-23,Monitor,241.92,North,29
+2024-04-24,Speaker,96.19,South,61
+2024-04-24,Laptop,952.86,East,50
+2024-04-24,Headphones,40.85,Central,22
+2024-04-24,USB Drive,25.13,Central,33
+2024-04-24,Monitor,465.01,South,41
+2024-04-25,Laptop,1316.16,East,65
+2024-04-25,Keyboard,24.4,North,66
+2024-04-25,Keyboard,34.81,East,33
+2024-04-25,Monitor,388.63,South,41
+2024-04-25,Webcam,70.78,Central,42
+2024-04-26,Laptop,951.44,South,57
+2024-04-26,Mouse,38.28,East,66
+2024-04-26,Mouse,27.04,South,35
+2024-04-26,Mouse,34.54,Central,68
+2024-04-26,Laptop,1229.39,Central,43
+2024-04-27,Webcam,97.55,Central,23
+2024-04-27,Headphones,41.81,South,24
+2024-04-27,Monitor,451.17,Central,30
+2024-04-27,Monitor,191.62,South,40
+2024-04-27,Headphones,,West,57
+2024-04-28,Laptop,1250.72,West,58
+2024-04-28,Printer,89.05,East,41
+2024-04-28,Monitor,256.4,North,28
+2024-04-28,External HDD,48.72,East,49
+2024-04-28,Printer,,North,37
+2024-04-29,Keyboard,79.88,North,35
+2024-04-29,Monitor,264.71,West,33
+2024-04-29,External HDD,66.72,East,60
+2024-04-29,Mouse,89.74,East,28
+2024-04-29,Mouse,87.99,West,43
+2024-04-30,Laptop,1226.42,Central,28
+2024-04-30,Headphones,50.57,South,20
+2024-04-30,Headphones,,Central,20
+2024-04-30,External HDD,23.33,South,64
+2024-04-30,Mouse,,South,41
+2024-05-01,Printer,22.99,East,54
+2024-05-01,Webcam,94.41,East,31
+2024-05-01,Webcam,22.55,West,24
+2024-05-01,USB Drive,55.34,West,23
+2024-05-01,Webcam,74.7,Central,59
+2024-05-02,Laptop,1866.41,Central,28
+2024-05-02,USB Drive,30.79,West,44
+2024-05-02,External HDD,91.92,East,55
+2024-05-02,Webcam,41.26,South,27
+2024-05-02,External HDD,73.01,Central,57
+2024-05-03,Keyboard,41.92,North,67
+2024-05-03,Speaker,45.44,East,35
+2024-05-03,Headphones,57.7,West,19
+2024-05-03,Mouse,90.29,South,51
+2024-05-03,Keyboard,59.42,South,54
+2024-05-04,Keyboard,26.77,South,24
+2024-05-04,USB Drive,62.8,North,61
+2024-05-04,Laptop,1908.58,Central,58
+2024-05-04,External HDD,53.36,East,25
+2024-05-04,Laptop,919.5,West,44
+2024-05-05,External HDD,34.19,South,29
+2024-05-05,Webcam,50.6,East,34
+2024-05-05,Webcam,70.74,West,65
+2024-05-05,Webcam,46.91,Central,58
+2024-05-05,External HDD,60.7,Central,18
+2024-05-06,USB Drive,75.37,East,18
+2024-05-06,Webcam,86.01,East,18
+2024-05-06,Printer,85.27,South,33
+2024-05-06,Keyboard,97.22,West,20
+2024-05-06,Speaker,86.77,North,60
+2024-05-07,Headphones,63.01,North,39
+2024-05-07,Keyboard,63.05,North,37
+2024-05-07,External HDD,31.18,West,63
+2024-05-07,Headphones,98.69,East,45
+2024-05-07,Monitor,333.19,North,40
+2024-05-08,Keyboard,80.76,Central,51
+2024-05-08,Laptop,831.29,South,26
+2024-05-08,Speaker,70.25,South,27
+2024-05-08,USB Drive,90.42,South,38
+2024-05-08,Mouse,61.33,Central,27
+2024-05-09,Keyboard,63.21,North,56
+2024-05-09,Headphones,39.54,Central,52
+2024-05-09,Speaker,85.14,Central,67
+2024-05-09,Keyboard,21.77,South,31
+2024-05-09,Headphones,67.5,West,29
+2024-05-10,Headphones,30.22,South,67
+2024-05-10,External HDD,97.58,Central,65
+2024-05-10,Headphones,73.74,West,21
+2024-05-10,Printer,48.76,East,48
+2024-05-10,Mouse,79.45,South,22
+2024-05-11,Laptop,1791.43,South,59
+2024-05-11,,85.69,Central,21
+2024-05-11,USB Drive,74.54,Central,44
+2024-05-11,Speaker,,East,43
+2024-05-11,Speaker,40.64,North,67
+2024-05-12,Mouse,57.42,North,23
+2024-05-12,Mouse,97.6,West,24
+2024-05-12,Webcam,34.79,Central,30
+2024-05-12,USB Drive,87.22,North,69
+2024-05-12,Webcam,90.35,West,58
+2024-05-13,,84.21,West,52
+2024-05-13,External HDD,74.17,Central,46
+2024-05-13,Webcam,61.73,East,56
+2024-05-13,Speaker,,East,36
+2024-05-13,Printer,49.78,North,67
+2024-05-14,Speaker,50.73,West,18
+2024-05-14,USB Drive,84.22,Central,57
+2024-05-14,Headphones,44.23,South,61
+2024-05-14,Speaker,98.44,South,39
+2024-05-14,Webcam,73.21,West,56
+2024-05-15,External HDD,31.55,East,54
+2024-05-15,Speaker,61.27,South,56
+2024-05-15,Monitor,399.43,West,57
+2024-05-15,Mouse,62.98,North,58
+2024-05-15,Mouse,78.22,East,54
+2024-05-16,Webcam,73.0,South,27
+2024-05-16,Laptop,1677.71,South,37
+2024-05-16,Webcam,65.0,Central,37
+2024-05-16,Keyboard,,Central,31
+2024-05-16,Monitor,475.94,West,44
+2024-05-17,Webcam,84.25,South,56
+2024-05-17,Speaker,64.5,East,56
+2024-05-17,,57.85,North,25
+2024-05-17,USB Drive,50.89,East,30
+2024-05-17,Monitor,224.13,East,66
+2024-05-18,Monitor,413.18,North,35
+2024-05-18,Speaker,36.35,Central,43
+2024-05-18,Keyboard,71.84,West,22
+2024-05-18,Monitor,279.1,North,37
+2024-05-18,USB Drive,84.89,North,63
+2024-05-19,Laptop,1703.51,East,23
+2024-05-19,Mouse,73.8,East,67
+2024-05-19,Headphones,37.99,East,39
+2024-05-19,Laptop,,South,47
+2024-05-19,Printer,60.28,Central,47
+2024-05-20,Webcam,38.87,North,22
+2024-05-20,Webcam,,North,26
+2024-05-20,Laptop,1938.45,East,24
+2024-05-20,Laptop,,West,23
+2024-05-20,Headphones,68.4,South,56
+2024-05-21,External HDD,95.71,South,62
+2024-05-21,External HDD,20.74,Central,56
+2024-05-21,Speaker,68.36,South,52
+2024-05-21,Webcam,31.13,Central,68
+2024-05-21,External HDD,42.33,West,60
+2024-05-22,External HDD,27.68,East,36
+2024-05-22,USB Drive,95.51,North,31
+2024-05-22,External HDD,71.22,South,63
+2024-05-22,Keyboard,60.23,East,32
+2024-05-22,Headphones,68.09,Central,50
+2024-05-23,USB Drive,53.95,East,55
+2024-05-23,Webcam,87.15,West,65
+2024-05-23,External HDD,91.44,North,26
+2024-05-23,Headphones,42.47,North,33
+2024-05-23,Mouse,20.86,West,30
+2024-05-24,Headphones,51.12,North,50
+2024-05-24,Mouse,54.42,Central,24
+2024-05-24,Printer,80.27,East,41
+2024-05-24,Printer,32.44,Central,49
+2024-05-24,Printer,89.86,South,60
+2024-05-25,Headphones,56.35,North,53
+2024-05-25,Mouse,50.64,North,32
+2024-05-25,USB Drive,97.35,East,54
+2024-05-25,External HDD,87.67,South,26
+2024-05-25,Headphones,89.23,Central,37
+2024-05-26,External HDD,65.79,Central,57
+2024-05-26,External HDD,94.83,South,22
+2024-05-26,Printer,33.98,West,67
+2024-05-26,Headphones,56.35,North,31
+2024-05-26,Webcam,23.05,East,29
+2024-05-27,Monitor,172.65,North,38
+2024-05-27,Speaker,28.78,South,47
+2024-05-27,Laptop,1990.45,South,41
+2024-05-27,Keyboard,64.59,Central,41
+2024-05-27,Keyboard,52.93,Central,24
+2024-05-28,Headphones,53.5,Central,37
+2024-05-28,Headphones,47.26,South,58
+2024-05-28,Printer,53.66,Central,67
+2024-05-28,Printer,69.02,East,35
+2024-05-28,Laptop,1723.31,Central,20
+2024-05-29,Headphones,84.98,South,68
+2024-05-29,USB Drive,77.33,East,41
+2024-05-29,Speaker,34.92,South,30
+2024-05-29,Webcam,79.62,North,55
+2024-05-29,Speaker,87.64,East,33
+2024-05-30,External HDD,26.14,Central,39
+2024-05-30,External HDD,36.02,West,45
+2024-05-30,Headphones,64.0,South,50
+2024-05-30,Printer,57.67,South,51
+2024-05-30,USB Drive,48.13,East,44
+2024-05-31,Headphones,69.89,West,43
+2024-05-31,External HDD,89.64,Central,50
+2024-05-31,Printer,20.11,North,58
+2024-05-31,USB Drive,95.27,West,51
+2024-05-31,Keyboard,83.82,North,22
+2024-06-01,Speaker,45.07,Central,69
+2024-06-01,,58.42,East,27
+2024-06-01,Laptop,1818.67,West,56
+2024-06-01,Headphones,42.84,West,66
+2024-06-01,External HDD,45.45,North,36
+2024-06-02,External HDD,66.57,North,36
+2024-06-02,Webcam,55.99,Central,26
+2024-06-02,External HDD,21.88,North,48
+2024-06-02,Monitor,419.16,Central,53
+2024-06-02,Keyboard,96.1,South,47
+2024-06-03,Monitor,444.3,South,38
+2024-06-03,Keyboard,89.12,West,64
+2024-06-03,Keyboard,45.46,West,26
+2024-06-03,Laptop,959.09,South,28
+2024-06-03,Monitor,363.54,North,22
+2024-06-04,Mouse,59.83,Central,19
+2024-06-04,Laptop,1110.42,West,32
+2024-06-04,Speaker,95.76,North,51
+2024-06-04,Monitor,410.12,South,49
+2024-06-04,Printer,30.78,East,31
+2024-06-05,USB Drive,56.73,Central,59
+2024-06-05,Laptop,1258.22,East,44
+2024-06-05,External HDD,24.07,Central,33
+2024-06-05,Keyboard,22.71,East,54
+2024-06-05,USB Drive,38.49,East,37
+2024-06-06,Speaker,62.95,East,36
+2024-06-06,Laptop,1403.88,Central,38
+2024-06-06,Mouse,25.04,North,21
+2024-06-06,Monitor,301.61,South,40
+2024-06-06,Monitor,237.02,West,67
+2024-06-07,Monitor,,East,61
+2024-06-07,Mouse,22.39,South,38
+2024-06-07,Speaker,57.61,West,68
+2024-06-07,Webcam,82.26,Central,60
+2024-06-07,External HDD,37.96,South,46
+2024-06-08,USB Drive,47.14,East,18
+2024-06-08,Speaker,63.23,North,21
+2024-06-08,Keyboard,,East,63
+2024-06-08,Speaker,44.57,Central,37
+2024-06-08,Webcam,31.0,East,35
+2024-06-09,Keyboard,,West,39
+2024-06-09,Keyboard,49.47,East,38
+2024-06-09,External HDD,80.45,North,55
+2024-06-09,Printer,99.77,East,38
+2024-06-09,Keyboard,42.73,Central,34
+2024-06-10,Webcam,54.64,West,45
+2024-06-10,Headphones,81.94,East,56
+2024-06-10,Headphones,65.43,North,67
+2024-06-10,Keyboard,82.73,East,41
+2024-06-10,External HDD,,East,65
+2024-06-11,Headphones,88.54,East,30
+2024-06-11,External HDD,24.57,South,37
+2024-06-11,USB Drive,32.36,South,35
+2024-06-11,Printer,50.12,South,21
+2024-06-11,Mouse,28.05,West,48
+2024-06-12,Keyboard,63.91,East,57
+2024-06-12,Laptop,801.58,Central,34
+2024-06-12,Printer,36.76,East,55
+2024-06-12,Speaker,58.17,South,63
+2024-06-12,,62.82,South,54
+2024-06-13,External HDD,86.28,South,22
+2024-06-13,Webcam,30.19,East,18
+2024-06-13,Speaker,25.98,South,24
+2024-06-13,,43.88,Central,35
+2024-06-13,Keyboard,81.51,South,38
+2024-06-14,Monitor,416.41,South,35
+2024-06-14,Keyboard,78.04,North,42
+2024-06-14,External HDD,98.64,West,34
+2024-06-14,Webcam,51.86,South,63
+2024-06-14,Mouse,49.11,Central,58
+2024-06-15,Speaker,82.75,East,35
+2024-06-15,External HDD,77.24,Central,29
+2024-06-15,Monitor,424.7,West,21
+2024-06-15,Monitor,330.14,Central,36
+2024-06-15,Monitor,368.19,East,21
+2024-06-16,Speaker,54.44,South,39
+2024-06-16,Laptop,1554.16,North,60
+2024-06-16,Mouse,88.59,East,65
+2024-06-16,Webcam,85.66,North,21
+2024-06-16,USB Drive,68.83,West,41
+2024-06-17,External HDD,89.64,Central,42
+2024-06-17,Laptop,1647.81,East,22
+2024-06-17,Mouse,30.64,East,49
+2024-06-17,Monitor,483.18,West,66
+2024-06-17,External HDD,68.53,South,50
+2024-06-18,USB Drive,40.76,West,67
+2024-06-18,External HDD,88.48,East,21
+2024-06-18,USB Drive,82.91,North,68
+2024-06-18,Keyboard,48.92,Central,33
+2024-06-18,Speaker,69.58,West,31
+2024-06-19,External HDD,64.44,South,23
+2024-06-19,Printer,59.9,Central,38
+2024-06-19,Headphones,76.86,Central,32
+2024-06-19,,90.72,Central,54
+2024-06-19,External HDD,50.83,West,47
+2024-06-20,Laptop,1193.83,West,41
+2024-06-20,Printer,,North,56
+2024-06-20,,47.73,Central,53
+2024-06-20,Speaker,23.61,North,67
+2024-06-20,Monitor,490.03,Central,37
+2024-06-21,Headphones,99.74,Central,45
+2024-06-21,Printer,40.76,West,22
+2024-06-21,USB Drive,72.79,Central,21
+2024-06-21,USB Drive,47.76,South,38
+2024-06-21,USB Drive,66.31,North,67
+2024-06-22,USB Drive,64.14,South,28
+2024-06-22,External HDD,38.68,North,33
+2024-06-22,Webcam,94.64,East,25
+2024-06-22,Laptop,1248.76,Central,29
+2024-06-22,Speaker,30.81,South,68
+2024-06-23,Headphones,94.99,North,43
+2024-06-23,Headphones,30.69,Central,49
+2024-06-23,Speaker,36.0,North,50
+2024-06-23,Speaker,89.62,West,54
+2024-06-23,Monitor,,North,63
+2024-06-24,Laptop,918.91,West,46
+2024-06-24,Printer,31.69,South,66
+2024-06-24,USB Drive,92.37,North,31
+2024-06-24,Headphones,86.73,South,65
+2024-06-24,Printer,95.72,North,36
+2024-06-25,Printer,95.29,Central,47
+2024-06-25,External HDD,82.16,East,54
+2024-06-25,Keyboard,41.37,East,22
+2024-06-25,Keyboard,47.88,North,42
+2024-06-25,USB Drive,79.13,North,31
+2024-06-26,Webcam,23.58,West,22
+2024-06-26,Webcam,50.06,Central,18
+2024-06-26,Laptop,1931.58,West,32
+2024-06-26,Printer,54.61,West,55
+2024-06-26,Keyboard,25.78,South,62
+2024-06-27,Monitor,376.02,South,36
+2024-06-27,Webcam,,North,36
+2024-06-27,External HDD,20.49,West,66
+2024-06-27,Speaker,72.83,East,38
+2024-06-27,Speaker,88.36,North,22
+2024-06-28,External HDD,41.08,East,19
+2024-06-28,Keyboard,52.28,Central,36
+2024-06-28,Monitor,481.86,Central,26
+2024-06-28,Printer,73.77,North,64
+2024-06-28,Webcam,71.9,East,47
+2024-06-29,External HDD,69.94,West,28
+2024-06-29,Keyboard,81.6,West,22
+2024-06-29,Speaker,89.97,East,28
+2024-06-29,Webcam,41.3,Central,52
+2024-06-29,Printer,65.41,West,41
+2024-06-30,Webcam,59.61,East,58
+2024-06-30,Headphones,,West,47
+2024-06-30,Keyboard,81.09,East,39
+2024-06-30,Mouse,37.08,Central,42
+2024-06-30,Monitor,306.42,West,60
+2024-07-01,Webcam,48.7,West,19
+2024-07-01,Headphones,67.4,Central,68
+2024-07-01,Headphones,40.51,West,30
+2024-07-01,USB Drive,20.13,South,44
+2024-07-01,Speaker,78.65,East,55
+2024-07-02,Keyboard,22.56,East,56
+2024-07-02,External HDD,83.77,West,39
+2024-07-02,Laptop,1248.82,North,34
+2024-07-02,Headphones,64.63,North,43
+2024-07-02,Webcam,39.05,North,48
+2024-07-03,External HDD,88.45,Central,40
+2024-07-03,Headphones,73.03,Central,28
+2024-07-03,External HDD,72.38,West,35
+2024-07-03,Headphones,68.02,East,32
+2024-07-03,Mouse,53.96,West,26
+2024-07-04,USB Drive,,East,28
+2024-07-04,External HDD,88.4,West,19
+2024-07-04,Laptop,987.38,North,67
+2024-07-04,Monitor,335.83,West,60
+2024-07-04,Monitor,238.34,Central,65
+2024-07-05,Printer,94.58,Central,54
+2024-07-05,Monitor,371.14,South,34
+2024-07-05,Keyboard,68.15,West,18
+2024-07-05,Mouse,24.08,North,62
+2024-07-05,USB Drive,33.02,West,48
+2024-07-06,Laptop,1858.91,North,27
+2024-07-06,,43.13,Central,44
+2024-07-06,Monitor,491.77,West,62
+2024-07-06,Monitor,,East,21
+2024-07-06,USB Drive,47.3,South,24
+2024-07-07,Keyboard,81.88,East,19
+2024-07-07,USB Drive,44.71,Central,28
+2024-07-07,Keyboard,46.21,South,36
+2024-07-07,Laptop,1916.38,West,56
+2024-07-07,Keyboard,40.09,West,20
+2024-07-08,Laptop,1493.03,East,43
+2024-07-08,Headphones,51.95,North,53
+2024-07-08,Webcam,24.92,Central,47
+2024-07-08,Speaker,70.72,South,46
+2024-07-08,Speaker,49.76,East,50
+2024-07-09,Mouse,28.75,West,51
+2024-07-09,Speaker,84.02,East,63
+2024-07-09,Speaker,,North,32
+2024-07-09,Mouse,51.0,Central,27
+2024-07-09,Speaker,79.43,South,36
+2024-07-10,Mouse,84.46,East,41
+2024-07-10,Mouse,86.78,Central,66
+2024-07-10,Printer,62.35,West,41
+2024-07-10,External HDD,22.83,North,62
+2024-07-10,Printer,,East,61
+2024-07-11,Webcam,65.01,South,31
+2024-07-11,Laptop,1413.52,Central,69
+2024-07-11,Laptop,1187.0,West,20
+2024-07-11,Printer,27.37,Central,46
+2024-07-11,USB Drive,67.44,West,58
+2024-07-12,External HDD,57.6,Central,61
+2024-07-12,Webcam,79.19,North,47
+2024-07-12,Laptop,849.09,West,68
+2024-07-12,External HDD,83.64,Central,18
+2024-07-12,Headphones,64.97,West,36
+2024-07-13,External HDD,64.28,East,41
+2024-07-13,Printer,88.67,West,21
+2024-07-13,Printer,39.6,West,56
+2024-07-13,Printer,38.48,North,41
+2024-07-13,,89.84,East,66
+2024-07-14,Printer,44.19,West,53
+2024-07-14,Webcam,44.95,Central,34
+2024-07-14,Keyboard,66.44,South,26
+2024-07-14,Mouse,25.45,East,43
+2024-07-14,Speaker,48.53,East,37
+2024-07-15,Webcam,98.12,Central,26
+2024-07-15,Monitor,451.27,East,66
+2024-07-15,Printer,90.1,South,59
+2024-07-15,External HDD,71.67,South,66
+2024-07-15,Monitor,365.67,West,22
+2024-07-16,Headphones,53.68,Central,50
+2024-07-16,Laptop,824.87,North,50
+2024-07-16,USB Drive,51.18,East,47
+2024-07-16,Speaker,27.82,East,68
+2024-07-16,Headphones,36.61,West,34
+2024-07-17,Keyboard,98.74,West,55
+2024-07-17,Webcam,30.39,East,21
+2024-07-17,Mouse,34.15,North,51
+2024-07-17,Speaker,92.36,East,60
+2024-07-17,Laptop,951.13,South,63
+2024-07-18,Monitor,266.87,West,58
+2024-07-18,USB Drive,69.97,South,65
+2024-07-18,External HDD,53.96,East,27
+2024-07-18,Laptop,1919.66,East,52
+2024-07-18,Speaker,26.46,East,69
