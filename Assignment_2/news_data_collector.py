@@ -64,3 +64,10 @@ news_df.to_csv(output_csv_path, index=False)
 print(f"\nتم حفظ عناوين الأخبار في {output_csv_path}")
 
 
+
+'''
+الوصف: تم تطوير هذا المثال لجمع عناوين الأخبار من عدة مواقع إخبارية عالمية
+ (BBC News, Reuters, CNN, Al Jazeera Arabic, Argaam) باللغتين العربية والإنجليزية.
+  تم تخزين عناوين الأخبار مع المصدر وتاريخ ووقت النشر في
+ Pandas DataFrame وتصديرها إلى ملف CSV.
+'''
